@@ -12,7 +12,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-d6c722?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=yellow" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-f5f4f0?style=flat-square&logo=Python&logoColor=orange" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-f5f4f0?style=flat-square&logo=Java&logoColor=orange" />
 </p>
 
 
