@@ -1,16 +1,20 @@
-### Hi there 👋
+🖖 Olá, me chamo Eduardo Amroginski Santos. Atuo como desenvolvedor Frontend na Compasso UOL.
 
-<!--
-**eduardoAmroginski/eduardoAmroginski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 Sou formado em Ciência da Computação pelo Centro Universitário Ritter dos Reis (Uniritter).
 
-Here are some ideas to get you started:
+👨‍🚀 Me considero um entusiasta por tecnologia, estou sempre pesquisando sobre novas tecnologias e tendências atuais de mercado. Atualmente estou estudando ReactJs, React Native e NodeJs pela Origamid e Rocketseat. Busco me tornar desenvolvedor Fullstack com o tempo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tenho interesse em, futuramente, migrar para as áreas de IA ou IoT.
+
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-d6c722?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=yellow" />
+</p>
+
+
+
+[![Eduardo Amroginski's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoAmroginski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/eduardoAmroginski)
+![Eduardo Amroginski's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoAmroginski&layout=compact&langs_count=16&theme=dracula)
