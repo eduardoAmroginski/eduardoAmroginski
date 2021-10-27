@@ -1,4 +1,4 @@
-🖖 Olá, me chamo Eduardo Amroginski Santos. Atuo como desenvolvedor Frontend na Compasso UOL.
+🖖 Olá, me chamo Eduardo Amroginski Santos. Atuo como desenvolvedor.
 
 👨‍🎓 Sou formado em Ciência da Computação pelo Centro Universitário Ritter dos Reis (Uniritter).
 
