@@ -16,6 +16,5 @@
 </p>
 
 
-
 [![Eduardo Amroginski's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoAmroginski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/eduardoAmroginski)
 ![Eduardo Amroginski's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoAmroginski&layout=compact&langs_count=16&theme=dracula)
