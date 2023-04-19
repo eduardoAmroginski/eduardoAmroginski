@@ -2,7 +2,7 @@
 
 👨‍🎓 Sou formado em Ciência da Computação pelo Centro Universitário Ritter dos Reis (Uniritter).
 
-👨‍🚀 Me considero um entusiasta por tecnologia, estou sempre pesquisando sobre novas tecnologias e tendências atuais de mercado. Atualmente estou estudando ReactJs, React Native e NodeJs pela Origamid e Rocketseat. Busco me tornar desenvolvedor Fullstack com o tempo.
+👨‍🚀 Me considero um entusiasta por tecnologia, estou sempre pesquisando sobre novas tecnologias e tendências atuais de mercado. Atualmente estou estudando ReactJs, React Native e NodeJs pela Origamid e Rocketseat. Evoluindo como desenvolvedor fullstack.
 
 🚀 Tenho interesse em, futuramente, migrar para as áreas de IA ou IoT.
 
